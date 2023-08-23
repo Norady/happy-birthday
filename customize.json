@@ -1,13 +1,13 @@
 {
   "greeting": "Hey",
-  "name": "My baby boy Graham",
+  "name": "my baby boy Graham",
   "greetingText": "Hope this works fine on your phone ⊙ω⊙",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/graham.jpeg",
   "text1": "It's your 3̶0̶t̶h̶ ̶b̶i̶r̶t̶h̶d̶a̶y̶  25th birthday!!! ヾ(^▽^*)))",
   "textInChatBox": "Happy birthday to my baaaabbeee!! I'll see you after work blah blah...",
   "sendButtonLabel": "Send",
-  "text2": "That's what I was going to do which is lowkey lame",
+  "text2": "That's what I was going to do which is lowkey lame |ω・)",
   "text3": "But then I stopped (～￣▽￣)～",
   "text4": "I realised, I wanted to do something 😎",
   "text4Adjective": "Special / Cool",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday!🎉 ｡◕‿◕｡",
   "outroText": "Okay, now come back and tell me if you liked it! I can't code in JSON/HTML so I copy some code and made some changes hehe",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ";)"
+  "outroSmiley": ":)"
 }
